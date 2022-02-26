@@ -1,0 +1,41 @@
+
+
+
+.head{
+    
+    text-align: center;
+    padding: 20px 40px;
+    margin:0 ;
+    border: 2px black solid;
+    background-color:#afe71369 ;
+   
+}
+ 
+.container{ 
+    background-color: rgba(6, 200, 248, 0.678);
+    border: 10px;
+    border-radius: 2%;
+    box-shadow:10px 20px 25px #0000004d ;
+    max-width: 50%;
+    overflow: hidden;
+    text-align: center;
+    
+    
+}
+
+
+.button {
+    width: 20%;
+    font-size: 16px;
+    padding: 10px 2%;
+    border: 0;
+    background-color: blue;
+    color:white ;
+    margin: none;
+    text-align: center;
+    justify-content: center;
+}
+.c1{
+    padding: 5px;
+    font-style: italic bold;
+}
